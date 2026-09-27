@@ -61,9 +61,9 @@
       "address": "https://omni.ethxn.xyz"
     },
     {
-    "name": "zijide",   
-    "address": "https://sidestore-nr6o.onrender.com"
-}
+      "name": "zijide",   
+      "address": "https://sidestore-nr6o.onrender.com"
+    }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
 }
